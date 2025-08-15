@@ -1,11 +1,10 @@
 {
     "domains": [
-        "aHR0cHM6Ly9kdWppYW8udXV1aXguY29tCg==", 
-        "aHR0cHM6Ly9iYWlkdS5jb20=", 
-        "aHR0cHM6Ly8xLjEuMS4x" 
+        "aHR0cHM6Ly9iZWlrZXFpYW5kdWFuMS5jYw==", 
+        "aHR0cHM6Ly9iZWlrZXFpYW5kdWFuLmNj" 
     ],
     "countdownDuration": 5,
-    "logoText": "WF", 
+    "logoText": "贝壳考研", 
     "logoColor": "linear-gradient(45deg, #ff6b6b, #ffa502)",
-    "pageTitle": "跳转到我的网站" 
+    "pageTitle": "跳转到贝壳考研" 
 }
