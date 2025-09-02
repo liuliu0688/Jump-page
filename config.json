@@ -1,12 +1,12 @@
 {
     "domains": [
-        "aHR0cHM6Ly94Ym9hcmQud3VmZW5nLm1l",
-        "aHR0cHM6Ly94Ym9hcmQud3VmZW5nLm1l",
-        "aHR0cHM6Ly94Ym9hcmQud3VmZW5nLm1l"
+        "aHR0cHM6Ly9iZWlrZXFpYW5kdWFuMS5jYw==",
+        "aHR0cHM6Ly9iZWlrZXFpYW5kdWFuLmNj",
+        "aHR0cHM6Ly9iZWlrZXpmenkuY2M="
     ],
     "countdownDuration": 5,
-    "pageTitle": "跳转到我的网站",
-    "theme": "forest",
+    "pageTitle": "跳转到贝壳考研",
+    "theme": "sunset",
     "footerCode": "<p style='text-align: center; margin-top: 20px; color: #666;'>© 2023 My Website. All rights reserved.</p>",
     "popup": {
         "title": "重要通知",
